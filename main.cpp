@@ -2,5 +2,7 @@
 
 int main(){
 
-    std::<< "Test" << std::endl;
+    std::cout << "Test" << std::endl;
+
+    return 0;
 }
