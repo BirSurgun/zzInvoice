@@ -1,8 +1,9 @@
+#include<boost/asio.hpp>
 #include<iostream>
 
 int main(){
-
-    std::cout << "Test" << std::endl;
+    boost::asio::io_context io_context;
+    std::cout << "Boost.Asio is working!" << std::endl;
 
     return 0;
 }
