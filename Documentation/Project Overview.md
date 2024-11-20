@@ -29,6 +29,34 @@ Additionally, this project servers as a personal challenge and and opportunity f
     -   What are the standout features of the application?
     -   Are there unique functionalities what set this application apart from others?
 
+
+### What are the standout features of the application?
+zzInvoice enables users to quickly create, edit, delete and save invoices for a selected company.
+Users can save invoices locally or in the cloud for backup purposes.
+
+
+While the application draws inspiratoin from an Excel-based workflow,
+it expands upon it to provide faster performance, greater scalability and improved usability.
+
+However, this becomes a problem for any country that does not have a similair tax system to european countries.
+
+
+### Are there unique functionalities what set this application apart from others? 
+The unique aspect of this application is its flexibility and customization, designed specifically around the accountant's preferences and workflow.
+This ensuses a tailored solution that adapts to individual needs.
+
+
+#### Invoice Creation
+ 
+##### Customizable Templates
+
+##### Customer Management
+
+##### Tax Handling
+
+##### Data import and Export
+
+
 ## Scope
     -   Is this application meant for local use, or does it support online/cloud functionality?
     -   Does the application handle multi-user scenarios or is it meant for single users?
@@ -45,4 +73,3 @@ Additionally, this project servers as a personal challenge and and opportunity f
 ## Example Use Case
     -   What is a typical scenario where this application would be used?
     -   What kind of users or businesses would benefit most from it?
-    
