@@ -26,15 +26,105 @@ Additionally, this project servers as a personal challenge and and opportunity f
 
 
 ## Key Features
+    -   What are the standout features of the application?
+    -   Are there unique functionalities what set this application apart from others?
+
+
+### What are the standout features of the application?
+zzInvoice enables users to quickly create, edit, delete and save invoices for a selected company.
+Users can save invoices locally or in the cloud for backup purposes.
+
+
+While the application draws inspiratoin from an Excel-based workflow,
+it expands upon it to provide faster performance, greater scalability and improved usability.
+
+However, this becomes a problem for any country that does not have a similair tax system to european countries.
+
+
+### Are there unique functionalities what set this application apart from others? 
+The unique aspect of this application is its flexibility and customization, designed specifically around the accountant's preferences and workflow.
+This ensuses a tailored solution that adapts to individual needs.
+
+
+#### Invoice Creation
+The ability to create new invoices with fields for:
+
+##### Company Details
+    -   RSIN
+    -   Name
+    -   Adress
+    -   Postal Code
+    -   Place
+    -   Country
+    -   Email
+    -   KvK Number
+    -   Bank Number
+    -   BTW Number
+    -   LH Number
+    -   G-Bank Number
+
+##### Debitors
+    -   (Company Details) RSIN and Name
+    -   Manager
+    -   Type Company
+    -   IsActive
+    -   IsZZP
+    -   IB-VPB
+    -   Invoices
+    -   Dossier Number
+    -   Digid Authority
+
+##### Persons
+    -   BSN Number
+    -   Initials
+    -   Full Name
+    -   Adress
+    -   Postal Code
+    -   Place
+    -   Country
+    -   Email
+    -   Phone Number
+    -   Date of Birth
+
+##### Details
+    -   Item Number
+    -   Item Detail
+    -   Type
+    -   Price
+    -   BTW Percentage
+
+##### Invoice
+    -   Debitor Information
+    -   Company Information
+    -   Invoice Information
+    -   Detail Information
+    -   Save and Backup Location
+
+
+#### Customizable Templates
+
+
+
+#### Customer Management
+
+#### Tax Handling
+
+#### Data import and Export
 
 
 ## Scope
-
+    -   Is this application meant for local use, or does it support online/cloud functionality?
+    -   Does the application handle multi-user scenarios or is it meant for single users?
 
 ## Technology Stack
-
+    -   What technologies or frameworks are used in the project?
+    -   Is this application cross-platform?
 
 ## Future Vision
+    -   What features or improvements are to be added to the application?
+    -   Are there planned integrations?
 
 
 ## Example Use Case
+    -   What is a typical scenario where this application would be used?
+    -   What kind of users or businesses would benefit most from it?
