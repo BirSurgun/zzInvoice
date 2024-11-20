@@ -26,15 +26,23 @@ Additionally, this project servers as a personal challenge and and opportunity f
 
 
 ## Key Features
-
+    -   What are the standout features of the application?
+    -   Are there unique functionalities what set this application apart from others?
 
 ## Scope
-
+    -   Is this application meant for local use, or does it support online/cloud functionality?
+    -   Does the application handle multi-user scenarios or is it meant for single users?
 
 ## Technology Stack
-
+    -   What technologies or frameworks are used in the project?
+    -   Is this application cross-platform?
 
 ## Future Vision
+    -   What features or improvements are to be added to the application?
+    -   Are there planned integrations?
 
 
 ## Example Use Case
+    -   What is a typical scenario where this application would be used?
+    -   What kind of users or businesses would benefit most from it?
+    
