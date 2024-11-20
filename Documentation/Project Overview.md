@@ -47,14 +47,69 @@ This ensuses a tailored solution that adapts to individual needs.
 
 
 #### Invoice Creation
- 
-##### Customizable Templates
+The ability to create new invoices with fields for:
 
-##### Customer Management
+##### Company Details
+    -   RSIN
+    -   Name
+    -   Adress
+    -   Postal Code
+    -   Place
+    -   Country
+    -   Email
+    -   KvK Number
+    -   Bank Number
+    -   BTW Number
+    -   LH Number
+    -   G-Bank Number
 
-##### Tax Handling
+##### Debitors
+    -   (Company Details) RSIN and Name
+    -   Manager
+    -   Type Company
+    -   IsActive
+    -   IsZZP
+    -   IB-VPB
+    -   Invoices
+    -   Dossier Number
+    -   Digid Authority
 
-##### Data import and Export
+##### Persons
+    -   BSN Number
+    -   Initials
+    -   Full Name
+    -   Adress
+    -   Postal Code
+    -   Place
+    -   Country
+    -   Email
+    -   Phone Number
+    -   Date of Birth
+
+##### Details
+    -   Item Number
+    -   Item Detail
+    -   Type
+    -   Price
+    -   BTW Percentage
+
+##### Invoice
+    -   Debitor Information
+    -   Company Information
+    -   Invoice Information
+    -   Detail Information
+    -   Save and Backup Location
+
+
+#### Customizable Templates
+
+
+
+#### Customer Management
+
+#### Tax Handling
+
+#### Data import and Export
 
 
 ## Scope
